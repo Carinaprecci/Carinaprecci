@@ -1,7 +1,12 @@
 <h1>Olá, eu sou a Carina👋<h1/>
-<div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Carinaprecci&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=transparent&hide_border=true"/>
+
+ <div align="left">
+ 
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrieldevcode&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=1&theme=transparent&hide_border=true&align=up"/>
+  
+</div>
+
 
 </div>
 <div style="display: inline_block"><br>
